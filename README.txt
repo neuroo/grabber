@@ -1,3 +1,7 @@
+Do not use this tool, it's an artifact from the past. Use Burp or w3af!
+
+
+
 Grabber v0.1
 ------------
 
